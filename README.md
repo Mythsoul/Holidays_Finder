@@ -13,5 +13,6 @@ Integrates with Bootstrap 5 for responsive and modern UI design.
 
 # Installation 
 1 - Clone the Repository : 
-
-``` git clone https://github.com/Mythsoul/Holidays_Finder.git ```
+``` bash
+git clone https://github.com/Mythsoul/Holidays_Finder.git 
+``` 
